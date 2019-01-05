@@ -8,5 +8,11 @@ npm install -S afeiship/next-slice2str --registry=https://registry.npm.taobao.or
 
 ## usage:
 ```js
-//DOCS here!
+import 'next-slice2str';
+
+const str = 'test@123.com';
+const idx = str.indexOf('@');
+const arr = nx.slice2str(str, idx);
+
+// [ 'test', '123.com' ]
 ```
