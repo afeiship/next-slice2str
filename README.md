@@ -6,6 +6,13 @@
 npm install -S afeiship/next-slice2str --registry=https://registry.npm.taobao.org
 ```
 
+## apis:
+| arg   | type   | default |
+|-------|--------|---------|
+| str   | String | -       |
+| index | Number | -       |
+| step  | Number | 1       |
+
 ## usage:
 ```js
 import 'next-slice2str';
