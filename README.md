@@ -11,7 +11,7 @@ npm install -S afeiship/next-slice2str --registry=https://registry.npm.taobao.or
 |----------|--------|---------|
 | str      | String | -       |
 | index    | Number | -       |
-| step     | Number | 1       |
+| step     | Number | 0       |
 
 ## usage:
 ```js

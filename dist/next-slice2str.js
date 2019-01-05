@@ -4,7 +4,7 @@
 
   nx.slice2str = function(inString, inIndex, inStep) {
     if (!inString && inString.length <= inIndex) return;
-    var step = typeof inStep === 'undefined' ? 1 : inStep;
+    var step = inStep || 0;
     return [
       inString.substr(0, inIndex),
       inString.substr(inIndex + step)
