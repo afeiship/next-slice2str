@@ -1,7 +1,7 @@
 {
   "name": "next-slice2str",
   "version": "0.0.1",
-  "description": "Slice string to two part",
+  "description": "nextBoilerplatePackageDescription",
   "main": "dist/next-slice2str.js",
   "authors": [
     "afei"

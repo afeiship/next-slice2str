@@ -1,12 +1,12 @@
 # next-slice2str
-> Slice string to two part
+> Slice string to two part.
 
-## install:
+## installation
 ```bash
-npm install -S afeiship/next-slice2str --registry=https://registry.npm.taobao.org
+npm install -S @feizheng/next-slice2str
 ```
 
-## apis:
+## apis
 | argument | type   | default |
 |----------|--------|---------|
 | str      | String | -       |
@@ -15,7 +15,7 @@ npm install -S afeiship/next-slice2str --registry=https://registry.npm.taobao.or
 
 ## usage:
 ```js
-import 'next-slice2str';
+import '@feizheng/next-slice2str';
 
 const str = 'test@123.com';
 const idx = str.indexOf('@');
