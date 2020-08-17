@@ -2,8 +2,8 @@
  * name: @feizheng/next-slice2str
  * description: Slice string to two part.
  * homepage: https://github.com/afeiship/next-slice2str
- * version: 1.0.2
- * date: 2020-08-17T06:41:06.700Z
+ * version: 1.0.3
+ * date: 2020-08-17T06:50:04.064Z
  * license: MIT
  */
 
