@@ -1,8 +1,8 @@
-(function() {
+(function () {
   var global = global || this || window || Function('return this')();
   var nx = global.nx || require('@feizheng/next-js-core2');
 
-  nx.slice2str = function(inString, inIndex, inStep) {
+  nx.slice2str = function (inString, inIndex, inStep) {
     if (!inString && inString.length <= inIndex) return;
     var step = inStep || 0;
     return [inString.substr(0, inIndex), inString.substr(inIndex + step)];

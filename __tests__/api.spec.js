@@ -2,7 +2,7 @@ const nx = require('@feizheng/next-js-core2');
 require('../src/next-slice2str');
 
 describe('api.basic test', () => {
-  test('nx.slice2str with step1', function() {
+  test('nx.slice2str with step1', function () {
     var str = 'test@123.com';
     var idx = str.indexOf('@');
     var arr = nx.slice2str(str, idx, 1);
@@ -11,7 +11,7 @@ describe('api.basic test', () => {
     expect(arr[1]).toBe('123.com');
   });
 
-  test('nx.slice2str with step 0', function() {
+  test('nx.slice2str with step 0', function () {
     var str = 'test@123.com';
     var idx = str.indexOf('@');
     var arr = nx.slice2str(str, idx, 0);
