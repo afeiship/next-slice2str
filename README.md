@@ -20,7 +20,7 @@ npm install -S @jswork/next-slice2str
 
 ## usage:
 ```js
-import '@feizheng/next-slice2str';
+import '@jswork/next-slice2str';
 
 const str = 'test@123.com';
 const idx = str.indexOf('@');
