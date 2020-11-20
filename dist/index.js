@@ -3,7 +3,7 @@
  * description: Slice string to two part.
  * homepage: https://github.com/afeiship/next-slice2str
  * version: 1.0.0
- * date: 2020-11-20 16:15:53
+ * date: 2020-11-20 16:17:46
  * license: MIT
  */
 
