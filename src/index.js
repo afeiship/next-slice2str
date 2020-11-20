@@ -1,6 +1,6 @@
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
   nx.slice2str = function (inString, inIndex, inStep) {
     if (!inString && inString.length <= inIndex) return;

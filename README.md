@@ -8,7 +8,7 @@
 
 ## installation
 ```bash
-npm install -S @feizheng/next-slice2str
+npm install -S @jswork/next-slice2str
 ```
 
 ## apis
@@ -34,14 +34,14 @@ const arr2 = nx.slice2str(str, idx, 1);
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-slice2str/blob/master/LICENSE.txt).
 
-[version-image]: https://img.shields.io/npm/v/@feizheng/next-slice2str
-[version-url]: https://npmjs.org/package/@feizheng/next-slice2str
+[version-image]: https://img.shields.io/npm/v/@jswork/next-slice2str
+[version-url]: https://npmjs.org/package/@jswork/next-slice2str
 
-[license-image]: https://img.shields.io/npm/l/@feizheng/next-slice2str
+[license-image]: https://img.shields.io/npm/l/@jswork/next-slice2str
 [license-url]: https://github.com/afeiship/next-slice2str/blob/master/LICENSE.txt
 
-[size-image]: https://img.shields.io/bundlephobia/minzip/@feizheng/next-slice2str
+[size-image]: https://img.shields.io/bundlephobia/minzip/@jswork/next-slice2str
 [size-url]: https://github.com/afeiship/next-slice2str/blob/master/dist/next-slice2str.min.js
 
-[download-image]: https://img.shields.io/npm/dm/@feizheng/next-slice2str
-[download-url]: https://www.npmjs.com/package/@feizheng/next-slice2str
+[download-image]: https://img.shields.io/npm/dm/@jswork/next-slice2str
+[download-url]: https://www.npmjs.com/package/@jswork/next-slice2str

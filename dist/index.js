@@ -1,15 +1,15 @@
 /*!
- * name: @feizheng/next-slice2str
+ * name: @jswork/next-slice2str
  * description: Slice string to two part.
  * homepage: https://github.com/afeiship/next-slice2str
- * version: 1.0.3
- * date: 2020-08-17T06:50:04.064Z
+ * version: 1.0.0
+ * date: 2020-11-20 16:12:57
  * license: MIT
  */
 
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
   nx.slice2str = function (inString, inIndex, inStep) {
     if (!inString && inString.length <= inIndex) return;
