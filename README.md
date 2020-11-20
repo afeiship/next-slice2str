@@ -18,7 +18,7 @@ npm install -S @jswork/next-slice2str
 | index    | Number | -       |
 | step     | Number | 0       |
 
-## usage:
+## usage
 ```js
 import '@jswork/next-slice2str';
 
