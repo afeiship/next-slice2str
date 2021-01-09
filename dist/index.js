@@ -2,8 +2,8 @@
  * name: @jswork/next-slice2str
  * description: Slice string to two part.
  * homepage: https://github.com/afeiship/next-slice2str
- * version: 1.0.1
- * date: 2021-01-06 22:38:10
+ * version: 1.0.2
+ * date: 2021-01-09 16:29:58
  * license: MIT
  */
 
