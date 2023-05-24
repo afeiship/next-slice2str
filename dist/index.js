@@ -2,8 +2,8 @@
  * name: @jswork/next-slice2str
  * description: Slice string to two part.
  * homepage: https://js.work
- * version: 1.0.0
- * date: 2023-05-24 15:12:39
+ * version: 1.0.3
+ * date: 2023-05-24 15:14:10
  * license: MIT
  */
 

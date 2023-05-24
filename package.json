@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-slice2str",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Slice string to two part.",
   "homepage": "https://js.work",
   "author": {
@@ -43,5 +43,10 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "slice",
+    "string"
+  ]
 }
