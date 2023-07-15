@@ -27,7 +27,7 @@ const idx = str.indexOf('@');
 const arr1 = nx.slice2str(str, idx);
 const arr2 = nx.slice2str(str, idx, 1);
 
-// [ 'test', '@123.com' ]
+// [ 'test', '123.com' ]
 // [ 'test', '123.com' ]
 ```
 
